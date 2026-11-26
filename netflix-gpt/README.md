@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-app-url.vercel.app"><strong>Live Demo</strong></a>
+  <a href="https://vercel.com/roshinir/netflix-gpt/HDu3HLQWQVtpBnHubaCkRCeMXyDu"><strong>Live Demo</strong></a>
   &nbsp;|&nbsp;
   <a href="https://github.com/rroshini/netflix-gpt/issues"><strong>Report a Bug</strong></a>
   &nbsp;|&nbsp;
